@@ -9,11 +9,11 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️PROFESSOR 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
-<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://telegra.ph/file/05522e13c97752efe5e75.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://files.catbox.moe/59nyop.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS STRANGER SPAM BOT, That is the greatest pleasure we have !
@@ -29,7 +29,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-SPAM-X)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fakecheater77x/STRANGER-SPAM-X)
   
 </details>
 
