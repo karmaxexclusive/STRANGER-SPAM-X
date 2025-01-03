@@ -1,6 +1,6 @@
 {
-    "name": "𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐒𝐏𝐀𝐌",
-    "logo": "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg",
+    "name": "𝐊𝐀𝐑𝐌𝐀 𝐒𝐏𝐀𝐌",
+    "logo": "https://files.catbox.moe/juo6si.jpeg",
     "keywords": [
         "telegram",
         "telethon",
@@ -67,12 +67,12 @@
       },
        "SUDO_USER": {
             "description": "Sudo users id space by space",
-            "value": "6919199044 6762113050 6876910746",
+            "value": "",
             "required": false
         },
       "OWNER_ID": {
             "description": "Owner Id",
-            "value": "6762113050",
+            "value": "7831196476",
             "required": true
         },
         "HEROKU_API_KEY": {
