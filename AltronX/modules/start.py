@@ -8,11 +8,11 @@ PythonButton = [
         Button.inline("⚡️𝐂ᴏᴍᴍᴀɴᴅs⚡️", data="help_back")
         ],
         [
-        Button.url("⚡️𝐂ʜᴀɴɴᴇʟ⚡️", "https://t.me/PROFESSOR_UPDATESX"),
-        Button.url("⚡️𝐒ᴜᴘᴘᴏʀᴛ⚡️", "https://t.me/PROFESSOR_UPDATESX")
+        Button.url("⚡️𝐂ʜᴀɴɴᴇʟ⚡️", "https://t.me/FINE_N_OK"),
+        Button.url("⚡️𝐒ᴜᴘᴘᴏʀᴛ⚡️", "https://t.me/FINE_N_OK")
         ],
         [
-        Button.url("⚡️𝗥𝗘𝗣𝗢⚡️", "https://github.com/itzshukla/STRANGER-SPAM-X/fork")
+        Button.url("⚡️𝗥𝗘𝗣𝗢⚡️", "https://github.com/BoochiiWorld")
         ]
         ]
 
@@ -34,7 +34,7 @@ async def start(event):
         BotName = AltBot.first_name
         BotId = AltBot.id
         TEXT = f"**𝐇ᴇʏ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\n𝗜 𝗔𝗠  [{BotName}](tg://user?id={BotId})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **✦ 𝐃ᴇᴠᴇʟᴏᴘᴇᴅ 𝐁ʏ :~ [ᴘʀᴏғᴇssᴏʀ](https://t.me/professor_07x)**\n\n"
+        TEXT += f"» **✦ 𝐃ᴇᴠᴇʟᴏᴘᴇᴅ 𝐁ʏ :~ [ᴘʀᴏғᴇssᴏʀ](https://t.me/FuckerEx)**\n\n"
         TEXT += f"» **𝐏ʀᴏғᴇssᴏʀ 𝐒ᴘᴀᴍ 𝐕ᴇʀsɪᴏɴ:** `3.2`\n"
         TEXT += f"» **𝐓ᴇʟᴇᴛʜᴏɴ 𝐕ᴇʀsɪᴏɴ:** `{telethon.__version__}`\n━━━━━━━━━━━━━━━━━"
         await event.client.send_file(
